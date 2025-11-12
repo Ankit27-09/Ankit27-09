@@ -1,7 +1,7 @@
 [![An image of @ankit27_09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit27_09)](https://holopin.io/@ankit27_09)
 
 
-### Hi there 👋, I am Ankit Singh! 😊
+### Hi there 👋, I am Ankit Singh! 
 
 I'm a passionate and curious web developer currently pursuing my **Bachelor of Engineering in Information Science and Engineering (B.E. in ISE)**, expected to graduate in **2027**.  
 
